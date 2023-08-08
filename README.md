@@ -10,7 +10,7 @@ Take a look at my [personal GitHub webpage](https://kristenm4.github.io/) to see
 * __SQL:__ MySQL, TSQL, PostgreSQL
 * __Front end:__ HTML/CSS, Bootstrap, JQuery
 * __Toolkit:__ Docker, virtual environments, source control (Git)
-* * __Cloud:__ AWS's Elastic Beanstalk, RDS, S3
+* __Cloud:__ AWS's Elastic Beanstalk, RDS, S3
 * __Command Line:__ Bash, Windows PowerShell
 
 
