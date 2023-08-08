@@ -4,12 +4,13 @@ I started my programming journey with Python and its web development framework, 
 Take a look at my [personal GitHub webpage](https://kristenm4.github.io/) to see my personal projects with detailed descriptions.
 
 ### What I'm familiar with:
-* Web apps/websites using the MVC (model-view-controller) pattern
+* Web app/website backend with .NET and Django
 * REST APIs
-* __Programming languages:__ C#, Python, JavaScript
+* __Languages:__ C#, Python, JavaScript
 * __SQL:__ MySQL, TSQL, PostgreSQL
 * __Front end:__ HTML/CSS, Bootstrap, JQuery
-* __Devops:__ Docker, virtual environments, source control (Git)
+* __Toolkit:__ Docker, virtual environments, source control (Git)
+* * __Cloud:__ AWS's Elastic Beanstalk, RDS, S3
 * __Command Line:__ Bash, Windows PowerShell
 
 
