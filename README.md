@@ -1,6 +1,12 @@
-UK-based full-stack software professional since 2023. Skilled at creating complex web apps using REST APIs, MySQL database, and responsive front-end interfaces. Familiar with TypeScript/JavaScript, Python, PHP, C# and more.
+### Hello👋 I'm Kristen
 
-Reach me on: [LinkedIn](linkedin.com/in/kristen-martin-48855b288/)
+I’m a full-stack web developer based in Scotland and I'm passionate about creating user-friendly and performant web apps. I build REST APIs and back-end systems in PHP and C#, while also translating Figma designs into responsive, modern UIs with Tailwind CSS, HTML, and JavaScript/TypeScript.
+
+I’ve led the development and deployment of production websites, managed cloud hosting, and implemented SEO and accessibility best practices.
+
+I'm also pursuing a part-time BSc in Computing & IT at The Open University and have completed my first full year. My studies have made me a stronger developer by strengthening my theoretical knowledge to complement my extensive practical technical background.
+
+If you're into tech, need help with a project, or just want to chat then feel free to reach out to me on [LinkedIn](linkedin.com/in/kristen-martin-48855b288/)
 
 
 <!--
