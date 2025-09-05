@@ -6,7 +6,7 @@ I’ve led the development and deployment of production websites, managed cloud 
 
 I'm also pursuing a part-time BSc in Computing & IT at The Open University and have completed my first full year. My studies have made me a stronger developer by strengthening my theoretical knowledge to complement my extensive practical technical background.
 
-If you're into tech, need help with a project, or just want to chat then feel free to reach out to me on [LinkedIn](linkedin.com/in/kristen-martin-48855b288/)
+If you're into tech, need help with a project, or just want to chat then feel free to reach out to me on [LinkedIn](https://linkedin.com/in/kristen-martin-48855b288/)
 
 
 <!--
